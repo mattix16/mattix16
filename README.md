@@ -11,4 +11,4 @@ you can find me leveling up in video games or pushing weights at the gym.
 
 **💻 Tech Stack:**
 <!-- Modifica l'URL qui sotto aggiungendo o rimuovendo i nomi dei linguaggi (es. java, html, css, js) -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,sql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git)](https://skillicons.dev)
