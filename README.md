@@ -1,16 +1,14 @@
-## Hi there 👋
+### Welcome to Mattia's Dev Lair 👾
 
-<!--
-**mattix16/mattix16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old Computer Engineering student passionate about the tech world. When I'm not on computer,
+you can find me leveling up in video games or pushing weights at the gym.
 
-Here are some ideas to get you started:
+**🎮 Player Stats:**
+- 🎓 **Class:** Computer Engineering Undergrad
+- ⚡ **Current Quest:** Learning [Java,Python Library] & working on [__]
+- 🕹️ **Side Quests:** Heavy lifting, gaming, and following the latest tech trends.
+- 📫 **How to reach me:** [mattiacentamore@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Tech Stack:**
+<!-- Modifica l'URL qui sotto aggiungendo o rimuovendo i nomi dei linguaggi (es. java, html, css, js) -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,sql,git)](https://skillicons.dev)
